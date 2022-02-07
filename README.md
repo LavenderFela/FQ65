@@ -21,10 +21,8 @@ Screw-In stabilizers will be needed, amount of them depend whether split spaceba
 
 ## Layout
 FQ65 is based on solderable KBD67 Rev2 PCB, but case top will have a blocker near the arrows thus reducing possible layouts. The .svg down below shows all the supported layouts:
-- ANSI
-- ISO
+- ANSI and ISO
 - Stepped Caps Lock
-- Split Backspace
-- Split Space
+- Split Backspace and Space
 
 ![FQ65 3](https://user-images.githubusercontent.com/99119828/152737766-694bc3c3-6bc7-4e49-9251-83a4f6a38ccf.svg)
