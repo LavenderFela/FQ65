@@ -3,7 +3,7 @@
 _tl;dr FQ65 is 65% keyboard inspired by Keycult and Geistmaschine luxury keyboards. Purpose of the project is to create a similar looking alternative which would be more affordable for custom mechanical keyboard enthusiasts._
 
 ## Parts used
-### KBD67 Rev2 PCB [COnfirmed]
+### KBD67 Rev2 PCB [Confirmed]
 
 While it is possible to buy original [Keycult PCBs](https://keycult.com/collections/accessories), (un)availability and price of 65$ excluding shipping makes them rather unappealing choice. KBD67 Rev2 is a solderable PCB which allows for both ANSI and ISO support, as well as split spacebar, backspace and stepped caps lock. At the moment, only this PCB is planned to be supported, but I might add support for other 65% PCBs later (DZ65, KBD67 MKII, KBD67 Lite).
 
