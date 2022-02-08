@@ -2,6 +2,8 @@
 
 _tl;dr FQ65 is a Keycult inspired 65% keyboard as a response to expensive and almost unavailable their models. My objective is to create a similar looking alternative which would be more affordable for custom mechanical keyboard enthusiasts._
 
+_tl;dr FQ65 is 65% keyboard inspired by Keycult and Geistmaschine luxury keyboards. Purpose of the project is to create a similar looking alternative which would be more affordable for custom mechanical keyboard enthusiasts._
+
 ## Parts used
 ### KBD67 Rev2 PCB
 
