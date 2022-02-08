@@ -1,1 +1,17 @@
-2022.02.08 - received 10 × Gateron Oil Kings and TX Long 60g Springs. Will be trying out to decide whether I want to use these switches for the keyboard.
+# Status
+
+Status updates regarding project state.
+
+## Design
+
+Sketching on the paper, added some resources to [sketches](../main/Sketches/) folder
+
+## Parts
+
+**PCB** - to be ordered
+
+**Switches** - to be chosen and then ordered; 10 × Gateron Oil Kings arriving soon, will try them out to see if I want use them for the keyboard; TX Long 60g springs have arrived
+
+**Stabilizers** - to be ordered
+
+**Case materials** - to be sourced
